@@ -1,0 +1,2 @@
+#Se supone que esto son lineas de codigo de algo que me ayude a sumar numeros
+##Tengo que aprender a programar en C
