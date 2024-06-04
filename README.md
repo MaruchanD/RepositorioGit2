@@ -1,2 +1,2 @@
 # RepositorioGit2
-## He agregado un texto en **negritas**
+## He agregado un texto en *negritas*
